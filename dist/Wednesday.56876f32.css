@@ -1,0 +1,180 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.sonic-2-icon2 {
+  width: 100%;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+}
+
+.imagini12, .sonic-2-icon2, .wednesday2022 {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.imagini12 {
+  width: 32.71%;
+  filter: blur(60px);
+  bottom: 0;
+  right: 67.29%;
+}
+
+.wednesday2022 {
+  width: 100%;
+  display: inline-block;
+}
+
+.text6 {
+  height: 7.31%;
+  width: 28.72%;
+  font-size: var(--font-size-2xl);
+  position: absolute;
+  inset: 3.8% 37.05% 88.89% 34.24%;
+}
+
+.sonic-1-icon {
+  height: 93.62%;
+  width: 94.85%;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  position: absolute;
+  inset: 3.12% 2.57% 3.26% 2.58%;
+  overflow: hidden;
+}
+
+.imagini13 {
+  height: 62.41%;
+  width: 22.95%;
+  position: absolute;
+  inset: 16.48% 72.12% 21.11% 4.93%;
+}
+
+.follows-wednesday-addams {
+  height: 7.69%;
+  width: 65.07%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+  position: absolute;
+  top: 57.5%;
+  left: 32.99%;
+}
+
+.genre-crime-comedy {
+  width: 41.11%;
+  display: inline-block;
+  position: absolute;
+  top: 18.43%;
+  left: 32.71%;
+}
+
+.director-alfred-gough, .stars-jenna-ortega, .writers-patt-casey {
+  width: 31.6%;
+  display: inline-block;
+  position: absolute;
+  top: 25.46%;
+  left: 32.71%;
+}
+
+.stars-jenna-ortega, .writers-patt-casey {
+  width: 62.99%;
+  top: 32.5%;
+}
+
+.stars-jenna-ortega {
+  width: 61.6%;
+  top: 39.54%;
+}
+
+.wednesday-child {
+  height: 11.57%;
+  width: 10.9%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+  inset: 78.89% 29.31% 9.54% 59.79%;
+}
+
+.wednesday-child, .wednesday-inner, .wednesday-item {
+  box-sizing: border-box;
+  position: absolute;
+}
+
+.wednesday-item {
+  height: 6.2%;
+  width: 10.14%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+  inset: 82.22% 54.31% 11.57% 35.56%;
+}
+
+.wednesday-inner {
+  height: 6.6%;
+  width: .3%;
+  border-right: 4.3px solid var(--color-white);
+  inset: 82.02% 59.22% 11.37% 40.47%;
+}
+
+.arrow-icon7, .bookmark-icon7, .like-icon12, .like-icon13, .play-icon6 {
+  height: 4.34%;
+  width: 3.05%;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 82.89% 60.11% 12.77% 36.84%;
+  overflow: hidden;
+}
+
+.arrow-icon7, .bookmark-icon7, .like-icon13, .play-icon6 {
+  inset: 83.42% 55.56% 12.24% 41.39%;
+}
+
+.arrow-icon7, .bookmark-icon7, .play-icon6 {
+  height: 6.02%;
+  width: 4.24%;
+  inset: 81.67% 8.82% 12.31% 86.94%;
+}
+
+.arrow-icon7, .play-icon6 {
+  inset: 81.76% 32.64% 12.22% 63.13%;
+}
+
+.arrow-icon7 {
+  inset: 2.41% 2.22% 91.57% 93.54%;
+}
+
+.h-2min {
+  width: 7.71%;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  position: absolute;
+  top: 92.22%;
+  left: 61.46%;
+}
+
+.wednesday {
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 1080px;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=Wednesday.56876f32.css.map */

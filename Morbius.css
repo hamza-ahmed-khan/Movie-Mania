@@ -1,0 +1,201 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.imagini2,
+.north-2-icon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.north-2-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagini2 {
+  height: 99.81%;
+  width: 32.15%;
+  top: 0.19%;
+  right: 67.85%;
+  filter: blur(60px);
+}
+.morbius-2022 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.text1 {
+  position: absolute;
+  height: 12.31%;
+  width: 41.24%;
+  top: 3.52%;
+  right: 31.74%;
+  bottom: 84.17%;
+  left: 27.01%;
+  font-size: var(--font-size-2xl);
+}
+.imagini3 {
+  position: absolute;
+  height: 58.43%;
+  width: 21.77%;
+  top: 18.98%;
+  right: 73.02%;
+  bottom: 22.59%;
+  left: 5.21%;
+}
+.biochemist-michael-morbius {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.biochemist-michael-morbius-container {
+  position: absolute;
+  height: 8.98%;
+  width: 65.63%;
+  top: 61.57%;
+  left: 32.15%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.director-daniel-espinosa,
+.genre-action-adventure1 {
+  position: absolute;
+  width: 44.58%;
+  top: 20.28%;
+  left: 32.15%;
+  display: inline-block;
+}
+.director-daniel-espinosa {
+  height: 6.48%;
+  width: 33.61%;
+  top: 26.02%;
+  left: 33.47%;
+}
+.stars-jared-leto,
+.writers-matt-sazama {
+  position: absolute;
+  width: 50.42%;
+  top: 32.5%;
+  left: 32.15%;
+  display: inline-block;
+}
+.stars-jared-leto {
+  width: 55.49%;
+  top: 39.54%;
+}
+.morbius-child {
+  height: 11.57%;
+  width: 10.97%;
+  top: 78.89%;
+  right: 29.58%;
+  bottom: 9.54%;
+  left: 59.44%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+}
+.morbius-child,
+.morbius-inner,
+.morbius-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.morbius-item {
+  height: 6.2%;
+  width: 10.21%;
+  top: 82.22%;
+  right: 54.72%;
+  bottom: 11.57%;
+  left: 35.07%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+}
+.morbius-inner {
+  height: 6.6%;
+  width: 0.3%;
+  top: 82.02%;
+  right: 59.71%;
+  bottom: 11.37%;
+  left: 39.99%;
+  border-right: 4.3px solid var(--color-white);
+}
+.arrow-icon1,
+.bookmark-icon1,
+.like-icon2,
+.like-icon3,
+.play-icon1 {
+  position: absolute;
+  height: 4.34%;
+  width: 3.08%;
+  top: 82.89%;
+  right: 60.6%;
+  bottom: 12.77%;
+  left: 36.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon1,
+.bookmark-icon1,
+.like-icon3,
+.play-icon1 {
+  top: 83.42%;
+  right: 56.02%;
+  bottom: 12.24%;
+  left: 40.91%;
+}
+.arrow-icon1,
+.bookmark-icon1,
+.play-icon1 {
+  height: 6.02%;
+  width: 4.24%;
+  top: 81.67%;
+  right: 8.89%;
+  bottom: 12.31%;
+  left: 86.88%;
+}
+.arrow-icon1,
+.play-icon1 {
+  top: 81.76%;
+  right: 32.92%;
+  bottom: 12.22%;
+  left: 62.85%;
+}
+.arrow-icon1 {
+  width: 4.31%;
+  top: 2.41%;
+  right: 2.22%;
+  bottom: 91.57%;
+  left: 93.47%;
+}
+.h-44min {
+  position: absolute;
+  width: 8.75%;
+  top: 92.22%;
+  left: 60.83%;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+}
+.morbius {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}

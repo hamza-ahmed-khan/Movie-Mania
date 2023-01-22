@@ -1,0 +1,210 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  flex-direction: column;
+  display: flex;
+  position: fixed;
+  inset: 0;
+}
+
+.sign-up-child, .strange-1-icon3 {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+
+.strange-1-icon3 {
+  width: 31.94%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  left: 0;
+  right: 68.06%;
+  overflow: hidden;
+}
+
+.sign-up-child {
+  width: 74.31%;
+  left: 25.69%;
+  right: 0;
+  box-shadow: 0 4px 4px 4px #00000040;
+}
+
+.sign-up-inner, .sign-up-item {
+  height: 5.46%;
+  width: 35.28%;
+  border-radius: var(--br-md);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  position: absolute;
+  inset: 35% 8.47% 59.54% 56.25%;
+}
+
+.sign-up-inner {
+  top: 42.5%;
+  bottom: 52.04%;
+}
+
+.enter-a-password3, .enter-an-email3 {
+  height: 4.26%;
+  width: 22.01%;
+  display: inline-block;
+  position: absolute;
+  top: 35.56%;
+  left: 34.24%;
+}
+
+.enter-a-password3 {
+  width: 18.33%;
+  top: 43.06%;
+  left: 37.92%;
+}
+
+.sign-up-child1 {
+  height: 5.46%;
+  width: 35.28%;
+  border-radius: var(--br-md);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  position: absolute;
+  inset: 50% 8.47% 44.54% 56.25%;
+}
+
+.re-enter-the-password1 {
+  height: 4.26%;
+  width: 22.85%;
+  display: inline-block;
+  position: absolute;
+  top: 50.56%;
+  left: 33.4%;
+}
+
+.sign-up-child2 {
+  height: 5.46%;
+  width: 35.28%;
+  border-radius: var(--br-md);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  position: absolute;
+  inset: 57.5% 8.47% 37.04% 56.25%;
+}
+
+.enter-a-username1 {
+  height: 4.26%;
+  width: 18.33%;
+  top: 58.06%;
+  left: 37.92%;
+}
+
+.cancel3, .enter-a-username1, .moviemania4, .welcome3 {
+  display: inline-block;
+  position: absolute;
+}
+
+.cancel3 {
+  height: 4.26%;
+  width: 18.33%;
+  top: 70.28%;
+  left: 81.04%;
+}
+
+.moviemania4, .welcome3 {
+  text-align: left;
+}
+
+.moviemania4 {
+  height: 4.35%;
+  width: 18.06%;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-itim);
+  top: 4.81%;
+  left: 1.67%;
+}
+
+.welcome3 {
+  height: 7.5%;
+  width: 20.56%;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  top: 17.96%;
+  left: 62.92%;
+}
+
+.sign-up-child3 {
+  height: 5.65%;
+  width: 11.18%;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  cursor: pointer;
+  position: absolute;
+  inset: 69.54% 19.93% 24.81% 68.89%;
+}
+
+.remember-password3, .sign-up3 {
+  display: inline-block;
+  position: absolute;
+}
+
+.sign-up3 {
+  height: 4.26%;
+  width: 18.4%;
+  color: var(--color-black);
+  font-weight: 800;
+  top: 70.28%;
+  left: 65.28%;
+}
+
+.remember-password3 {
+  height: 2.69%;
+  width: 17.08%;
+  font-size: var(--font-size-3xs);
+  cursor: pointer;
+  top: 71.3%;
+  left: 48.19%;
+}
+
+.box66 {
+  height: 41.56%;
+  width: 15.38%;
+  inset: 58.44% 84.62% 0 0;
+}
+
+.box66, .box67, .copy4 {
+  position: absolute;
+}
+
+.box67 {
+  height: 25.97%;
+  width: 9.59%;
+  border-radius: var(--br-3xs);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  cursor: pointer;
+  inset: -1.3% -.47% 75.32% 90.88%;
+}
+
+.copy4 {
+  height: 7.13%;
+  width: 14.85%;
+  inset: 71.85% 34.69% 21.02% 50.46%;
+}
+
+.sign-up2 {
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 1080px;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=SignUp.9cd319fe.css.map */

@@ -1,0 +1,180 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.checkbox-2-child,
+.strange-1-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.strange-1-icon {
+  width: 33.26%;
+  right: 66.74%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.checkbox-2-child {
+  width: 75.21%;
+  right: 0;
+  left: 24.79%;
+  box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.checkbox-2-inner,
+.checkbox-2-item {
+  position: absolute;
+  height: 5.46%;
+  width: 35.69%;
+  top: 35%;
+  right: 8.61%;
+  bottom: 59.54%;
+  left: 55.69%;
+  border-radius: var(--br-md);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.checkbox-2-inner {
+  top: 42.5%;
+  bottom: 52.04%;
+}
+.enter-an-email {
+  position: absolute;
+  height: 4.26%;
+  width: 22.22%;
+  top: 35.56%;
+  left: 33.47%;
+  display: inline-block;
+}
+.cancel,
+.enter-a-password,
+.forgot-password,
+.remember-password {
+  position: absolute;
+  height: 4.26%;
+  width: 18.54%;
+  top: 43.06%;
+  left: 37.15%;
+  display: inline-block;
+}
+.cancel,
+.forgot-password,
+.remember-password {
+  width: 18.61%;
+  top: 56.94%;
+  left: 80.83%;
+}
+.forgot-password,
+.remember-password {
+  height: 2.69%;
+  width: 17.36%;
+  top: 57.69%;
+  left: 43.4%;
+  font-size: var(--font-size-3xs);
+}
+.forgot-password {
+  width: 17.29%;
+  top: 50.74%;
+  left: 63.54%;
+}
+.moviepmania,
+.welcome {
+  position: absolute;
+  text-align: left;
+  display: inline-block;
+}
+.moviepmania {
+  height: 4.44%;
+  width: 17.64%;
+  top: 4.81%;
+  left: 1.67%;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-itim);
+}
+.welcome {
+  height: 7.5%;
+  width: 20.83%;
+  top: 17.96%;
+  left: 62.43%;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+}
+.rectangle-div {
+  position: absolute;
+  height: 5.65%;
+  width: 11.39%;
+  top: 56.2%;
+  right: 20.07%;
+  bottom: 38.15%;
+  left: 68.54%;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  cursor: pointer;
+}
+.enter {
+  position: absolute;
+  height: 4.26%;
+  width: 18.61%;
+  top: 56.94%;
+  left: 64.93%;
+  font-weight: 800;
+  color: var(--color-black);
+  display: inline-block;
+}
+.box,
+.box1 {
+  position: absolute;
+  height: 41.56%;
+  width: 15.38%;
+  top: 58.44%;
+  right: 84.62%;
+  bottom: 0;
+  left: 0;
+}
+.box1 {
+  height: 25.97%;
+  width: 9.58%;
+  top: -1.3%;
+  right: -0.46%;
+  bottom: 75.32%;
+  left: 90.88%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+}
+.line-icon {
+  position: absolute;
+  height: 15.58%;
+  width: 7.17%;
+  top: 3.9%;
+  right: 0.5%;
+  bottom: 80.52%;
+  left: 92.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.copy {
+  position: absolute;
+  height: 7.13%;
+  width: 15.03%;
+  top: 58.24%;
+  right: 39.23%;
+  bottom: 34.63%;
+  left: 45.74%;
+}
+.checkbox-2 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}

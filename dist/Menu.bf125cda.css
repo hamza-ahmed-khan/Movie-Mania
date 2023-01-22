@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.group-child {
+  height: 100%;
+  width: 100%;
+  background-color: var(--color-black);
+  position: absolute;
+  inset: 0;
+}
+
+.contact-us, .personal-account {
+  height: 4.26%;
+  width: 49.5%;
+  display: inline-block;
+  position: absolute;
+  top: 19.44%;
+  left: 16.5%;
+}
+
+.contact-us {
+  height: 3.61%;
+  width: 35%;
+  top: 70.37%;
+  left: 14.83%;
+}
+
+.mail-icon {
+  height: 6.02%;
+  width: 10.83%;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 69.72% 83.5% 24.26% 5.67%;
+  overflow: hidden;
+}
+
+.disconnect1, .line-icon3 {
+  cursor: pointer;
+  position: absolute;
+  top: 83.52%;
+}
+
+.disconnect1 {
+  height: 4.26%;
+  width: 38.67%;
+  display: inline-block;
+  left: 6.67%;
+}
+
+.line-icon3 {
+  height: 4.63%;
+  width: 5%;
+  max-width: 100%;
+  max-height: 100%;
+  bottom: 11.85%;
+  left: 6.17%;
+  right: 88.83%;
+  overflow: hidden;
+}
+
+.about-us {
+  height: 4.26%;
+  width: 28.33%;
+  display: inline-block;
+  position: absolute;
+  top: 57.5%;
+  left: 15.5%;
+}
+
+.info-icon {
+  height: 6.02%;
+  width: 10.83%;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 56.85% 83.5% 37.13% 5.67%;
+  overflow: hidden;
+}
+
+.saved1 {
+  margin-block: 0;
+}
+
+.saved {
+  height: 4.26%;
+  width: 28.83%;
+  display: inline-block;
+  position: absolute;
+  top: 44.91%;
+  left: 11.33%;
+}
+
+.bookmark-icon9 {
+  height: 6.02%;
+  width: 10.83%;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 43.98% 83.5% 50% 5.67%;
+  overflow: hidden;
+}
+
+.settings-prefferences {
+  height: 9.44%;
+  width: 96%;
+  display: inline-block;
+  position: absolute;
+  top: 31.76%;
+  left: 2.17%;
+}
+
+.menu-icon, .settings-icon, .user-icon {
+  height: 6.02%;
+  width: 10.83%;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 31.11% 83.5% 62.87% 5.67%;
+  overflow: hidden;
+}
+
+.menu-icon, .user-icon {
+  top: 18.24%;
+  bottom: 75.74%;
+}
+
+.menu-icon {
+  inset: 5.37% 82.5% 88.61% 6.67%;
+}
+
+.rectangle-parent {
+  height: 100%;
+  width: 95.54%;
+  position: absolute;
+  inset: 0 0 0 4.46%;
+}
+
+.menu {
+  width: 628px;
+  height: 1080px;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-blue);
+  font-family: var(--font-k2d);
+  position: relative;
+  overflow: auto;
+}
+
+/*# sourceMappingURL=Menu.bf125cda.css.map */

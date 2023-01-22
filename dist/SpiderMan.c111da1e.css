@@ -1,0 +1,181 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.imagini, .spider-2-icon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.spider-2-icon {
+  height: 100%;
+  width: 100%;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  top: 0;
+  right: 0;
+  overflow: hidden;
+}
+
+.imagini {
+  height: 99.81%;
+  width: 32.15%;
+  filter: blur(60px);
+  top: .19%;
+  right: 67.85%;
+}
+
+.spider-man-no-way {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.imagini1, .text {
+  position: absolute;
+}
+
+.text {
+  height: 12.31%;
+  width: 41.24%;
+  font-size: var(--font-size-2xl);
+  inset: .19% 26.6% 87.5% 32.15%;
+}
+
+.imagini1 {
+  height: 58.24%;
+  width: 21.77%;
+  inset: 18.24% 73.02% 23.52% 5.21%;
+}
+
+.with-spider-mans-identity {
+  margin-block: 0;
+}
+
+.with-spider-mans-identity-container {
+  height: 8.98%;
+  width: 65.63%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+  position: absolute;
+  top: 61.57%;
+  left: 32.15%;
+}
+
+.genre-action-adventure {
+  width: 45.14%;
+  display: inline-block;
+  position: absolute;
+  top: 18.43%;
+  left: 32.15%;
+}
+
+.director-jon-watts, .stars-tom-holland, .writers-chris-mckenna {
+  width: 29.44%;
+  display: inline-block;
+  position: absolute;
+  top: 25.46%;
+  left: 32.15%;
+}
+
+.stars-tom-holland, .writers-chris-mckenna {
+  width: 61.32%;
+  top: 32.5%;
+}
+
+.stars-tom-holland {
+  width: 64.65%;
+  top: 39.54%;
+  left: 32.57%;
+}
+
+.spider-man-child {
+  height: 11.57%;
+  width: 10.97%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+  inset: 78.89% 29.58% 9.54% 59.44%;
+}
+
+.spider-man-child, .spider-man-inner, .spider-man-item {
+  box-sizing: border-box;
+  position: absolute;
+}
+
+.spider-man-item {
+  height: 6.2%;
+  width: 10.21%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+  inset: 82.22% 54.72% 11.57% 35.07%;
+}
+
+.spider-man-inner {
+  height: 6.6%;
+  width: .3%;
+  border-right: 4.3px solid var(--color-white);
+  inset: 82.02% 59.71% 11.37% 39.99%;
+}
+
+.arrow-icon, .bookmark-icon, .like-icon, .like-icon1, .play-icon {
+  height: 4.34%;
+  width: 3.08%;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 82.89% 60.6% 12.77% 36.32%;
+  overflow: hidden;
+}
+
+.arrow-icon, .bookmark-icon, .like-icon1, .play-icon {
+  inset: 83.42% 56.02% 12.24% 40.91%;
+}
+
+.arrow-icon, .bookmark-icon, .play-icon {
+  height: 6.02%;
+  width: 4.24%;
+  inset: 81.67% 8.89% 12.31% 86.88%;
+}
+
+.arrow-icon, .play-icon {
+  inset: 81.76% 32.92% 12.22% 62.85%;
+}
+
+.arrow-icon {
+  width: 4.31%;
+  inset: 2.41% 2.22% 91.57% 93.47%;
+}
+
+.h-28min {
+  width: 9.17%;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  position: absolute;
+  top: 92.22%;
+  left: 60.63%;
+}
+
+.spider-man {
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 1080px;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=SpiderMan.c111da1e.css.map */

@@ -1,0 +1,191 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.spider-1-icon {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.doctor-strange-multiverse,
+.imagini8,
+.spider-1-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.imagini8 {
+  width: 32.15%;
+  right: 67.85%;
+  bottom: 0;
+  filter: blur(60px);
+}
+.doctor-strange-multiverse {
+  width: 100%;
+  display: inline-block;
+}
+.text4 {
+  position: absolute;
+  height: 15.46%;
+  width: 44.93%;
+  top: 3.52%;
+  right: 21.81%;
+  bottom: 81.02%;
+  left: 33.26%;
+  font-size: var(--font-size-2xl);
+}
+.imagini9 {
+  position: absolute;
+  height: 58.43%;
+  width: 21.77%;
+  top: 18.98%;
+  right: 73.02%;
+  bottom: 22.59%;
+  left: 5.21%;
+}
+.dr-stephen-strange {
+  position: absolute;
+  height: 8.98%;
+  width: 65.21%;
+  top: 58.7%;
+  left: 32.57%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.director-sam-raimi,
+.genre-action-adventure2 {
+  position: absolute;
+  width: 43.4%;
+  top: 18.43%;
+  left: 32.15%;
+  display: inline-block;
+}
+.director-sam-raimi {
+  width: 27.15%;
+  top: 25.46%;
+}
+.writers-michael-waldron {
+  width: 58.61%;
+  top: 32.5%;
+  left: 32.15%;
+}
+.h-6min,
+.stars-benedict-cumberbatch,
+.writers-michael-waldron {
+  position: absolute;
+  display: inline-block;
+}
+.stars-benedict-cumberbatch {
+  height: 12.69%;
+  width: 67.85%;
+  top: 39.54%;
+  left: 32.15%;
+}
+.h-6min {
+  width: 7.85%;
+  top: 92.04%;
+  left: 61.04%;
+  font-size: var(--font-size-sm);
+}
+.doctor-strange-child,
+.doctor-strange-item {
+  position: absolute;
+  height: 11.57%;
+  width: 10.9%;
+  top: 78.89%;
+  right: 29.79%;
+  bottom: 9.54%;
+  left: 59.31%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+  box-sizing: border-box;
+}
+.doctor-strange-item {
+  height: 6.2%;
+  width: 10.21%;
+  top: 82.22%;
+  right: 54.79%;
+  bottom: 11.57%;
+  left: 35%;
+  border-radius: var(--br-lg);
+  border: 4.3px solid var(--color-white);
+}
+.doctor-strange-inner {
+  position: absolute;
+  height: 6.6%;
+  width: 0.3%;
+  top: 82.02%;
+  right: 59.78%;
+  bottom: 11.37%;
+  left: 39.92%;
+  border-right: 4.3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.arrow-icon5,
+.bookmark-icon5,
+.like-icon8,
+.like-icon9,
+.play-icon4 {
+  position: absolute;
+  height: 4.34%;
+  width: 3.06%;
+  top: 82.89%;
+  right: 60.65%;
+  bottom: 12.77%;
+  left: 36.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon5,
+.bookmark-icon5,
+.like-icon9,
+.play-icon4 {
+  top: 83.42%;
+  right: 56.09%;
+  bottom: 12.24%;
+  left: 40.85%;
+}
+.arrow-icon5,
+.bookmark-icon5,
+.play-icon4 {
+  height: 6.02%;
+  width: 4.24%;
+  top: 81.67%;
+  right: 9.24%;
+  bottom: 12.31%;
+  left: 86.53%;
+}
+.arrow-icon5,
+.play-icon4 {
+  top: 81.76%;
+  right: 33.13%;
+  bottom: 12.22%;
+  left: 62.64%;
+}
+.arrow-icon5 {
+  top: 2.41%;
+  right: 2.64%;
+  bottom: 91.57%;
+  left: 93.13%;
+}
+.doctor-strange {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}

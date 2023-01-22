@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.submenu-child {
+  height: 100%;
+  width: 100%;
+  background-color: var(--color-black);
+  border-radius: 29px;
+  position: absolute;
+  inset: 0;
+}
+
+.disconnect {
+  height: 42.99%;
+  width: 92%;
+  display: inline-block;
+  position: absolute;
+  top: 23.36%;
+  left: 3.5%;
+}
+
+.line-icon2 {
+  height: 12.13%;
+  width: 5.17%;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 4.67% 48% 83.19% 46.83%;
+  overflow: hidden;
+}
+
+.submenu {
+  width: 600px;
+  height: 107px;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-blue);
+  font-family: var(--font-k2d);
+  position: relative;
+  overflow: auto;
+}
+
+/*# sourceMappingURL=SubMenu.f6718f4f.css.map */

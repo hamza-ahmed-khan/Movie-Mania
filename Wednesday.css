@@ -1,0 +1,205 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.sonic-2-icon2 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagini12,
+.sonic-2-icon2,
+.wednesday2022 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.imagini12 {
+  width: 32.71%;
+  right: 67.29%;
+  bottom: 0;
+  filter: blur(60px);
+}
+.wednesday2022 {
+  width: 100%;
+  display: inline-block;
+}
+.text6 {
+  position: absolute;
+  height: 7.31%;
+  width: 28.72%;
+  top: 3.8%;
+  right: 37.05%;
+  bottom: 88.89%;
+  left: 34.24%;
+  font-size: var(--font-size-2xl);
+}
+.sonic-1-icon {
+  position: absolute;
+  height: 93.62%;
+  width: 94.85%;
+  top: 3.12%;
+  right: 2.57%;
+  bottom: 3.26%;
+  left: 2.58%;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagini13 {
+  position: absolute;
+  height: 62.41%;
+  width: 22.95%;
+  top: 16.48%;
+  right: 72.12%;
+  bottom: 21.11%;
+  left: 4.93%;
+}
+.follows-wednesday-addams {
+  position: absolute;
+  height: 7.69%;
+  width: 65.07%;
+  top: 57.5%;
+  left: 32.99%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.genre-crime-comedy {
+  position: absolute;
+  width: 41.11%;
+  top: 18.43%;
+  left: 32.71%;
+  display: inline-block;
+}
+.director-alfred-gough,
+.stars-jenna-ortega,
+.writers-patt-casey {
+  position: absolute;
+  width: 31.6%;
+  top: 25.46%;
+  left: 32.71%;
+  display: inline-block;
+}
+.stars-jenna-ortega,
+.writers-patt-casey {
+  width: 62.99%;
+  top: 32.5%;
+}
+.stars-jenna-ortega {
+  width: 61.6%;
+  top: 39.54%;
+}
+.wednesday-child {
+  height: 11.57%;
+  width: 10.9%;
+  top: 78.89%;
+  right: 29.31%;
+  bottom: 9.54%;
+  left: 59.79%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+}
+.wednesday-child,
+.wednesday-inner,
+.wednesday-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.wednesday-item {
+  height: 6.2%;
+  width: 10.14%;
+  top: 82.22%;
+  right: 54.31%;
+  bottom: 11.57%;
+  left: 35.56%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+}
+.wednesday-inner {
+  height: 6.6%;
+  width: 0.3%;
+  top: 82.02%;
+  right: 59.22%;
+  bottom: 11.37%;
+  left: 40.47%;
+  border-right: 4.3px solid var(--color-white);
+}
+.arrow-icon7,
+.bookmark-icon7,
+.like-icon12,
+.like-icon13,
+.play-icon6 {
+  position: absolute;
+  height: 4.34%;
+  width: 3.05%;
+  top: 82.89%;
+  right: 60.11%;
+  bottom: 12.77%;
+  left: 36.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon7,
+.bookmark-icon7,
+.like-icon13,
+.play-icon6 {
+  top: 83.42%;
+  right: 55.56%;
+  bottom: 12.24%;
+  left: 41.39%;
+}
+.arrow-icon7,
+.bookmark-icon7,
+.play-icon6 {
+  height: 6.02%;
+  width: 4.24%;
+  top: 81.67%;
+  right: 8.82%;
+  bottom: 12.31%;
+  left: 86.94%;
+}
+.arrow-icon7,
+.play-icon6 {
+  top: 81.76%;
+  right: 32.64%;
+  bottom: 12.22%;
+  left: 63.13%;
+}
+.arrow-icon7 {
+  top: 2.41%;
+  right: 2.22%;
+  bottom: 91.57%;
+  left: 93.54%;
+}
+.h-2min {
+  position: absolute;
+  width: 7.71%;
+  top: 92.22%;
+  left: 61.46%;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+}
+.wednesday {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}

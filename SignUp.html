@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./SignUp.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=K2D:wght@400;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Itim:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="sign-up2">
+      <img class="strange-1-icon3" alt="" src="public/strange-13@2x.png" />
+      <div class="sign-up-child"></div>
+      <div class="sign-up-item"></div>
+      <div class="sign-up-inner"></div>
+      <b class="enter-an-email3">Enter an email adress</b
+      ><b class="enter-a-password3">Enter a password</b>
+      <div class="sign-up-child1"></div>
+      <b class="re-enter-the-password1">Re-enter the password</b>
+      <div class="sign-up-child2"></div>
+      <b class="enter-a-username1">Enter a username</b
+      ><b class="cancel3">Cancel</b>
+      <div class="moviemania4">MovieMania</div>
+      <div class="welcome3">Welcome!</div>
+      <div class="sign-up-child3" id="popuprectangle5"></div>
+      <div class="sign-up3">Sign Up</div>
+      <b class="remember-password3" id="popuprememberPasswordText"
+        >Remember password</b
+      >
+      <div class="copy4">
+        <div class="box66"></div>
+        <div class="box67" id="popupbox1"></div>
+      </div>
+    </div>
+
+    <script>
+      var popuprectangle5 = document.getElementById("popuprectangle5");
+      if (popuprectangle5) {
+        popuprectangle5.addEventListener("click", function (e) {
+          window.location.href = "./SignedIn.html";
+        });
+      }
+      
+      var popuprememberPasswordText = document.getElementById(
+        "popuprememberPasswordText"
+      );
+      if (popuprememberPasswordText) {
+        popuprememberPasswordText.addEventListener("click", function (e) {
+          window.location.href = "./Start.html";
+        });
+      }
+      
+      var popupbox1 = document.getElementById("popupbox1");
+      if (popupbox1) {
+        popupbox1.addEventListener("click", function (e) {
+          window.location.href = "./Checkbox1.html";
+        });
+      }
+      </script>
+  </body>
+</html>

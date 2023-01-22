@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.submenu-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 29px;
+  background-color: var(--color-black);
+}
+.disconnect {
+  position: absolute;
+  height: 42.99%;
+  width: 92%;
+  top: 23.36%;
+  left: 3.5%;
+  display: inline-block;
+}
+.line-icon2 {
+  position: absolute;
+  height: 12.13%;
+  width: 5.17%;
+  top: 4.67%;
+  right: 48%;
+  bottom: 83.19%;
+  left: 46.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.submenu {
+  position: relative;
+  width: 600px;
+  height: 107px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-blue);
+  font-family: var(--font-k2d);
+}

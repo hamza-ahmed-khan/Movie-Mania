@@ -1,0 +1,213 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.bat-2-icon, .imagini6 {
+  position: absolute;
+  bottom: 0;
+}
+
+.bat-2-icon {
+  height: 100%;
+  width: 100%;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  top: 0;
+  left: 7.06%;
+  right: -7.06%;
+  overflow: hidden;
+}
+
+.imagini6 {
+  height: 99.81%;
+  width: 30.49%;
+  filter: blur(60px);
+  top: .19%;
+  left: -2.15%;
+  right: 71.67%;
+}
+
+.text3, .the-bad-guys {
+  width: 648.74px;
+  height: 133px;
+  position: absolute;
+}
+
+.the-bad-guys {
+  display: inline-block;
+  top: 0;
+  left: 0;
+}
+
+.text3 {
+  font-size: var(--font-size-2xl);
+  top: 36px;
+  left: 359px;
+}
+
+.bat-2-icon1 {
+  height: 100%;
+  width: 100%;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.imagini7 {
+  height: 58.43%;
+  width: 20.28%;
+  position: absolute;
+  inset: 20.46% 75.07% 21.11% 4.65%;
+}
+
+.genre-animation-adventure, .several-reformed-yet {
+  display: inline-block;
+  position: absolute;
+  left: 28.33%;
+}
+
+.several-reformed-yet {
+  height: 8.98%;
+  width: 71.67%;
+  font-size: var(--font-size-2xs);
+  top: 61.57%;
+}
+
+.genre-animation-adventure {
+  width: 50.07%;
+  top: 18.43%;
+}
+
+.director-pierre-perifel, .stars-sam-rockwell, .writers-aaron-blabey {
+  width: 33.54%;
+  display: inline-block;
+  position: absolute;
+  top: 25.46%;
+  left: 28.33%;
+}
+
+.stars-sam-rockwell, .writers-aaron-blabey {
+  width: 61.32%;
+  top: 32.5%;
+}
+
+.stars-sam-rockwell {
+  width: 56.25%;
+  top: 39.54%;
+}
+
+.bad-guys-child {
+  height: 11.57%;
+  width: 11.94%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+  inset: 78.89% 29.86% 9.54% 58.19%;
+}
+
+.bad-guys-child, .bad-guys-inner, .bad-guys-item {
+  box-sizing: border-box;
+  position: absolute;
+}
+
+.bad-guys-item {
+  height: 6.2%;
+  width: 11.18%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+  inset: 82.22% 57.29% 11.57% 31.53%;
+}
+
+.bad-guys-inner {
+  height: 6.6%;
+  width: .3%;
+  border-right: 4.3px solid var(--color-white);
+  inset: 82.02% 62.77% 11.37% 36.93%;
+}
+
+.like-icon6, .like-icon7 {
+  height: 4.34%;
+  width: 3.36%;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 82.89% 63.76% 12.77% 32.89%;
+  overflow: hidden;
+}
+
+.like-icon7 {
+  inset: 83.42% 58.74% 12.24% 37.9%;
+}
+
+.bookmark-icon3, .play-icon3 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 882px;
+  left: 1711px;
+}
+
+.play-icon3 {
+  height: 6.02%;
+  width: 4.58%;
+  max-width: 100%;
+  max-height: 100%;
+  inset: 81.76% 33.54% 12.22% 61.88%;
+  overflow: hidden;
+}
+
+.arrow-icon3 {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  top: 26px;
+  left: 1812px;
+}
+
+.h-40min {
+  width: 9.58%;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  position: absolute;
+  top: 93.15%;
+  left: 59.44%;
+}
+
+.arrow-icon4, .bookmark-icon4 {
+  height: 6.02%;
+  width: 4.24%;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 84.63% 8.26% 9.35% 87.5%;
+  overflow: hidden;
+}
+
+.arrow-icon4 {
+  width: 4.31%;
+  inset: 2.13% 2.5% 91.85% 93.19%;
+}
+
+.bad-guys {
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 1080px;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=BadGuys.a7a90d6e.css.map */

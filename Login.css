@@ -1,0 +1,179 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.login-child,
+.strange-1-icon2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.strange-1-icon2 {
+  width: 29.08%;
+  right: 70.92%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.login-child {
+  width: 76.39%;
+  right: 0;
+  left: 23.61%;
+  box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.login-inner,
+.login-item {
+  position: absolute;
+  height: 5.46%;
+  width: 36.18%;
+  top: 35%;
+  right: 8.82%;
+  bottom: 59.54%;
+  left: 55%;
+  border-radius: var(--br-md);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.login-inner {
+  top: 42.5%;
+  bottom: 52.04%;
+}
+.cancel2,
+.enter-a-password2,
+.enter-an-email2 {
+  position: absolute;
+  height: 4.26%;
+  width: 22.57%;
+  top: 35.56%;
+  left: 32.43%;
+  display: inline-block;
+}
+.cancel2,
+.enter-a-password2 {
+  width: 18.89%;
+  top: 43.06%;
+  left: 36.11%;
+}
+.cancel2 {
+  width: 18.82%;
+  top: 56.94%;
+  left: 80.56%;
+  cursor: pointer;
+}
+.forgot-password1,
+.remember-password2 {
+  position: absolute;
+  height: 2.69%;
+  width: 17.57%;
+  top: 57.69%;
+  left: 42.5%;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+}
+.forgot-password1 {
+  width: 17.64%;
+  top: 51.11%;
+  left: 63.61%;
+}
+.moviemania3,
+.welcome2 {
+  position: absolute;
+  text-align: left;
+  display: inline-block;
+}
+.moviemania3 {
+  height: 4.44%;
+  width: 16.32%;
+  top: 4.81%;
+  left: 1.67%;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-itim);
+}
+.welcome2 {
+  height: 7.41%;
+  width: 21.11%;
+  top: 18.06%;
+  left: 61.88%;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+}
+.login-child1 {
+  position: absolute;
+  height: 5.65%;
+  width: 11.46%;
+  top: 56.2%;
+  right: 20.49%;
+  bottom: 38.15%;
+  left: 68.06%;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  cursor: pointer;
+}
+.enter1 {
+  position: absolute;
+  height: 4.26%;
+  width: 18.89%;
+  top: 56.94%;
+  left: 64.44%;
+  font-weight: 800;
+  color: var(--color-black);
+  display: inline-block;
+}
+.box64 {
+  height: 41.56%;
+  width: 15.38%;
+  top: 58.44%;
+  right: 84.62%;
+  bottom: 0;
+  left: 0;
+}
+.box64,
+.box65,
+.copy3 {
+  position: absolute;
+}
+.box65 {
+  height: 25.97%;
+  width: 9.56%;
+  top: -1.3%;
+  right: -0.45%;
+  bottom: 75.32%;
+  left: 90.89%;
+  border-radius: var(--br-3xs);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.copy3 {
+  height: 7.13%;
+  width: 15.27%;
+  top: 58.24%;
+  right: 39.85%;
+  bottom: 34.63%;
+  left: 44.88%;
+}
+.login1 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, width=device-width">
+
+    <link rel="stylesheet" href="/BadGuys.689f5f05.css">
+    <link rel="stylesheet" href="/Login.49c28edc.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=K2D:wght@400;600;700;800&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Itim:wght@400&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap">
+  </head>
+  <body>
+    <div class="login1">
+      <img class="strange-1-icon2" alt="" src="/strange-12@2x.6274d62c.png">
+      <div class="login-child"></div>
+      <div class="login-item"></div>
+      <div class="login-inner"></div>
+      <b class="enter-an-email2">Enter an email adress</b><b class="enter-a-password2">Enter a password</b><b class="cancel2" id="popupcancelText">Cancel</b><b class="remember-password2">Remember password</b><b class="forgot-password1">Forgot password?</b>
+      <div class="moviemania3">MovieMania</div>
+      <div class="welcome2">Welcome!</div>
+      <div class="login-child1" id="popuprectangle3"></div>
+      <div class="enter1">Enter</div>
+      <div class="copy3">
+        <div class="box64"></div>
+        <div class="box65" id="popupbox1"></div>
+      </div>
+    </div>
+
+    <script>var popupcancelText = document.getElementById("popupcancelText");
+if (popupcancelText) popupcancelText.addEventListener("click", function(e) {
+    var popup = e.currentTarget.parentNode;
+    function isOverlay(node) {
+        return !!(node && node.classList && node.classList.contains("popup-overlay"));
+    }
+    while(popup && !isOverlay(popup))popup = popup.parentNode;
+    if (isOverlay(popup)) popup.style.display = "none";
+});
+var popuprectangle3 = document.getElementById("popuprectangle3");
+if (popuprectangle3) popuprectangle3.addEventListener("click", function(e) {
+    window.location.href = "./SignedIn.html";
+});
+var popupbox1 = document.getElementById("popupbox1");
+if (popupbox1) popupbox1.addEventListener("click", function(e) {
+    window.location.href = "/";
+});
+
+</script>
+  <script src="/Login.7a7eea09.js"></script></body>
+</html>
